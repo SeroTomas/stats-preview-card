@@ -9,7 +9,8 @@ export default {
 				"softViolet":"hsl(277, 64%, 61%)",
 			},
 			fontFamily: {
-				"inter": ['Inter', 'sans-serif']
+				'inter': ['Inter', 'sans-serif'],
+				'lexend': ['Lexend Deca', 'sans-serif']
 			}
 		},
 	},

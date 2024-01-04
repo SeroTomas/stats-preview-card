@@ -464,6 +464,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-5.0.16.tgz#b858508cdb56dcbbf3166903122851e2fbd16b50"
   integrity sha512-qF0aH5UiZvCmneX5orJbVRoc2VTyLTV3X/7laMp03Qt28L+B9tFlZODOGUL64wDWc69YVdi1LeJB0cIgd51lvw==
 
+"@fontsource/lexend-deca@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/lexend-deca/-/lexend-deca-5.0.8.tgz#3bae626d67cc4be2f25a678d5627cd963b405f9f"
+  integrity sha512-mxP3QvcRHlsrfsN4U/hBG8Mdv60In8hT83Esz3THwR6a8BMybv/Nfuj4o0RpD+t6vSrdfcZvXEw/B/BlJ0fcTQ==
+
 "@img/sharp-darwin-arm64@0.33.1":
   version "0.33.1"
   resolved "https://registry.yarnpkg.com/@img/sharp-darwin-arm64/-/sharp-darwin-arm64-0.33.1.tgz#9d3cb0e4899b10b003608a018877b45b6db02861"
