@@ -4,9 +4,9 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				"darkBlue":"hsl(233, 47%, 7%)",
-				"desaturatedBlue":"hsl(244, 38%, 16%)",
-				"softViolet":"hsl(277, 64%, 61%)",
+				"c-darkBlue":"hsl(233, 47%, 7%)",
+				"c-desaturatedBlue":"hsl(244, 38%, 16%)",
+				"c-softViolet":"hsl(277, 64%, 61%)",
 			},
 			fontFamily: {
 				'inter': ['Inter', 'sans-serif'],
